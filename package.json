@@ -25,9 +25,9 @@
   "homepage": "https://github.com/SaifAbrahimSaleem/information-retrieval#readme",
   "dependencies": {
     "axios": "^0.19.2",
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "elasticsearch": "^16.6.0",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "lemmatizer": "0.0.1",
     "natural": "^0.6.3",
     "stopword": "^1.0.0"
